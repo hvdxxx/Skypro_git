@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37fad03f-330f-4b63-afeb-f14e6ad1dddf" name="Changes" comment="фывфывфыв">
+    <list default="true" id="37fad03f-330f-4b63-afeb-f14e6ad1dddf" name="Changes" comment="10.1. Продвинутый Git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/processing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hvdxxx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hvdxxx/bank_masks.git",
+    "accountId": "b9a3a169-bdfa-4938-be39-3b060b5e87df"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,15 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.masks.executor&quot;: &quot;Run&quot;,
-    &quot;Python.widget.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/retja/PycharmProjects/bank_masks&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.masks.executor": "Run",
+    "Python.processing.executor": "Run",
+    "Python.widget.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/retja/PycharmProjects/bank_masks"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\retja\PycharmProjects\bank_masks" />
@@ -72,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1784913680733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10.1. Продвинутый Git">
+      <option name="closed" value="true" />
+      <created>1787816948927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787816948927</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="фывфывфыв" />
-    <option name="LAST_COMMIT_MESSAGE" value="фывфывфыв" />
+    <MESSAGE value="10.1. Продвинутый Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.1. Продвинутый Git" />
   </component>
 </project>
